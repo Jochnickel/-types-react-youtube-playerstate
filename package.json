@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Jochnickel/-types-react-youtube-playerstate/issues"
   },
-  "homepage": "https://github.com/Jochnickel/-types-react-youtube-playerstate#readme"
+  "homepage": "https://github.com/Jochnickel/-types-react-youtube-playerstate#readme",
+  "devDependencies": {
+    "react-youtube": "^7.9.0",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "@types/react-youtube": "^7.6.2"
+  }
 }
