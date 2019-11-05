@@ -1,0 +1,19 @@
+{
+  "name": "@types/react-youtube-playerstate",
+  "version": "1.0.0",
+  "description": "Type definitions for react-youtube with playerstate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Jochnickel/-types-react-youtube-playerstate.git"
+  },
+  "author": "Joachim Janke <joachim.remdi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jochnickel/-types-react-youtube-playerstate/issues"
+  },
+  "homepage": "https://github.com/Jochnickel/-types-react-youtube-playerstate#readme"
+}
